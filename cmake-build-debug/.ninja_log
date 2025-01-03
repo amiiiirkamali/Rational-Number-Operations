@@ -1,0 +1,8 @@
+# ninja log v5
+1	148	7576031256592408	build.ninja	d038195d88247675
+3	731	7576009285509575	CMakeFiles/rationalNumberOperations.dir/main.cpp.obj	8cd1c470a5d8f473
+600	718	7576016692336286	rationalNumberOperations.exe	da8281357185926f
+0	439	7576015015398450	CMakeFiles/rationalNumberOperations.dir/Source.cpp.obj	6463f15232f24fd2
+9	415	7576016689356271	CMakeFiles/rationalNumberOperations.dir/Rational.cpp.obj	be7797ea1093b04a
+2	64	7576016685854820	CMakeFiles/rationalNumberOperations.dir/Node.cpp.obj	91b15cbc78e353ff
+5	599	7576016691186271	CMakeFiles/rationalNumberOperations.dir/BigNumber.cpp.obj	9f624ff8e525462f

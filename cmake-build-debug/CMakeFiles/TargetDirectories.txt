@@ -1,0 +1,3 @@
+C:/Users/Amir/CLionProjects/rationalNumberOperations/cmake-build-debug/CMakeFiles/rationalNumberOperations.dir
+C:/Users/Amir/CLionProjects/rationalNumberOperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amir/CLionProjects/rationalNumberOperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
