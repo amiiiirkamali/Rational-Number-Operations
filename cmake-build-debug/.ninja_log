@@ -6,3 +6,8 @@
 9	415	7576016689356271	CMakeFiles/rationalNumberOperations.dir/Rational.cpp.obj	be7797ea1093b04a
 2	64	7576016685854820	CMakeFiles/rationalNumberOperations.dir/Node.cpp.obj	91b15cbc78e353ff
 5	599	7576016691186271	CMakeFiles/rationalNumberOperations.dir/BigNumber.cpp.obj	9f624ff8e525462f
+11	716	7580589317192064	CMakeFiles/rationalNumberOperations.dir/BigNumber.cpp.obj	9f624ff8e525462f
+3	443	7580590206445520	CMakeFiles/rationalNumberOperations.dir/Rational.cpp.obj	be7797ea1093b04a
+7	487	7580590206885840	CMakeFiles/rationalNumberOperations.dir/Source.cpp.obj	6463f15232f24fd2
+11	648	7580590208471749	CMakeFiles/rationalNumberOperations.dir/BigNumber.cpp.obj	9f624ff8e525462f
+648	925	7580590211210949	rationalNumberOperations.exe	da8281357185926f
